@@ -59,4 +59,4 @@ def getvalue():
 if __name__ == '__main__':
     app.run(debug=False)
 
-# hello guys we are learning git hub here and we dont know 
+#Changed button size and colour
